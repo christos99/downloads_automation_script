@@ -15,6 +15,8 @@ destinations = {
     'pdf': '/Users/christos/Downloads/Downloaded_Documents',
     'epub': '/Users/christos/Downloads/Downloaded_Books',
     'txt': '/Users/christos/Downloads/Downloaded_Documents',
+    'py': '/Users/christos/Downloads/Downloaded_Coding_Files',
+    'yaml': '/Users/christos/Downloads/Downloaded_Coding_Files',
     'jpg': '/Users/christos/Downloads/Downloaded_Images',
     'jpeg': '/Users/christos/Downloads/Downloaded_Images',
     'HEIC': '/Users/christos/Downloads/Downloaded_Images',
